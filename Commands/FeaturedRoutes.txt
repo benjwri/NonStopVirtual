@@ -37,4 +37,3 @@ Saturday:
 
 Sunday:
 :nonstop: Get *1.5x* flight time of your first flight of the day! :nonstop:
-@channel
