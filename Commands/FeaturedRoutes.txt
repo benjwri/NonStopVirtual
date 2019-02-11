@@ -1,39 +1,38 @@
-*NSVA Featured Routes from February 4, 2019 - February 12, 2019*
+*NSVA Featured Routes from February 11, 2019 - February 17, 2019*
 
-Welcome to our featured routes of the week, every week, we will be posting recommended routes to fly in out fleet all across the world. We choose the routes in conjunction with the IFATC schedule. If you still didn’t arrive at the required rank to fly these routes, don’t worry! You can fly 2 recommended routes regardless of your rank.
+Welcome to our featured routes of the week, every week, we will be posting recommended routes to fly in out fleet all across the world. We choose the routes in conjunction with the IFATC schedule. If you still didn’t arrive at the required rank to fly these routes, don’t worry! You can fly 2 recommended routes regardless of your rank. Only routes which specifically state it have flight time multipliers.
 
 
 *Route of the Week*
 Fly at any time this week and receive *2x flight time*!
-:flag-ae: Dubai :flag-ae:
-`EDDF-OMDB | B747-400 | DLH 630-631`
+:flag-kr: Seoul :flag-kr:
+`EDDF-RKSI | A340 | DLH 712/713`
 
 Monday:
-:flag-fr: France :flag-fr:
-`EDDF-LFPG | A320 | DLH 1026-1027`
-`EDDM-LFPG | A320 | DLH 2236-2237`
+:flag-jp: Japan :flag-jp:
+`EDDF-RJBB | B747-400 | DLH 740/741`
 
 Tuesday:
-:flag-in: India :flag-in:
-`EDDF-VOMM | A340 | DLH 758-759`
+:flag-au: Australia - :virgin: Virgin Australia Codeshare :flagaun:
+`YSCB-YSSY | B737-800 | VA 548/547`
 
 Wednesday:
-:flag-kw: Kuwait :flag-kw:
-`EDDF-OKBK | A330 | DLH 624-625`
+:flag-us: Alaska - :alaska: Alaska Airlines Codeshare :flag-us:
+`KSEA-KSLC | B737-900 | AS 968/969`
 
 Thursday:
-:flag-no: Norway :flag-no:
-`EDDF-ENGM | A320 | DLH 858-859`
-`EDDM-ENGM | A320 | DLH 2456-2457`
+:flag-ch: Switzerland - :swiss: Swiss Codeshare :flag-ch:
+Fly *Any* Swiss codeshare today and recieve *1.5x flight time*!
 
 Friday:
-*FNF - 1.5x Flight Time!*
-`EDDF-UTAA | A320 | DLH 612/613 | Must be flown via Baku (UBBB)`
+*FNF - See later announcement*
 
 Saturday:
-:flag-us: Western USA :flag-us:
-`EDDF-KJFK | B747-400 | DLH 400-401`
-`EDDF-KATL | A340 | DLH 444-445`
+:flag-sg: Singapore :flag-sg:
+`EDDF-WSSS | A380 | DLH 778/779`
+`EDDM-WSSS | A340 | DLH 790/791`
 
 Sunday:
-:nonstop: Get *1.5x* flight time of your first flight of the day! :nonstop:
+:flag-hk: Hong Kong Cargo :flag-hk:
+`VOBL-VHHH | MD-11F | DLH 8678`
+`VOBL-UNNT | MD-11F | DLH 8455`
