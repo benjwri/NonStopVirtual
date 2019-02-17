@@ -22,20 +22,16 @@ flag-es: Spain :flag-es:
 `EDDF-LEBL | A320 | DLH 1124/1125`
 
 Thursday:
-:flag-ch: Switzerland - :swiss: Swiss Codeshare :flag-ch:
-Fly *Any* Swiss codeshare today and recieve *1.5x flight time*!
+:flag-mx: Mexico :flag-mx:
+`EDDJ-MMUN | A340 | DLH 514/515
 
 Friday:
-:flag-us: FNF - Seattle :flag-us: 
-`KSEA-PANC | B737-800 | AS 108/109`
+*FNF - More details coming soon*
 
 Saturday:
-:flag-sg: Singapore :flag-sg:
-`EDDF-WSSS | A380 | DLH 778/779`
-`EDDM-WSSS | A340 | DLH 790/791`
+:alaska: Alaskan Codeshare :alaska:
+`KSEA-KAIH | B737-900 | AS 350/351`
 
 Sunday:
-:flag-hk: Hong Kong Cargo :flag-hk:
-`VOBL-VHHH | MD-11F | DLH 8678`
-`VOBL-UNNT | MD-11F | DLH 8455`
-i
+:flag-tr: Turkey :flag-tr:
+`EDDF-LTBA | A320 | DLH 1304/1305`
