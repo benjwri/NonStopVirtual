@@ -1,39 +1,37 @@
-*NSVA Featured Routes from February 11, 2019 - February 17, 2019*
+*NSVA Featured Routes from February 18, 2019 - February 24, 2019*
 
 Welcome to our featured routes of the week, every week, we will be posting recommended routes to fly in out fleet all across the world. We choose the routes in conjunction with the IFATC schedule. If you still didn’t arrive at the required rank to fly these routes, don’t worry! You can fly 2 recommended routes regardless of your rank. Only routes which specifically state it have flight time multipliers.
 
 
 *Route of the Week*
-Fly at any time this week and receive *2x flight time*!
-:flag-kr: Seoul :flag-kr:
-`EDDF-RKSI | A340 | DLH 712/713`
+Fly at any time this week!
+:flag-us: Denver :flag-us:
+`EDDF-KDEN | B747-400 | DLH 446/447`
 
 Monday:
-:flag-jp: Japan :flag-jp:
-`EDDF-RJBB | B747-400 | DLH 740/741`
+:flag-ca: Canada :flag-ca:
+`EDDF-CYVE | A340 | DLH 492/493`
+`EDDM-CYVE | A340 | DLH 476/477`
 
 Tuesday:
-:flag-au: Australia - :virgin: Virgin Australia Codeshare :flagaun:
-`YSCB-YSSY | B737-800 | VA 548/547`
+:flag-za: South Africa :flag-za:
+`EDDF-FOAR | B747-8 | DLH 572/573`
 
 Wednesday:
-:flag-us: Alaska - :alaska: Alaska Airlines Codeshare :flag-us:
-`KSEA-KSLC | B737-900 | AS 968/969`
+flag-es: Spain :flag-es:
+`EDDF-LEBL | A320 | DLH 1124/1125`
 
 Thursday:
-:flag-ch: Switzerland - :swiss: Swiss Codeshare :flag-ch:
-Fly *Any* Swiss codeshare today and recieve *1.5x flight time*!
+:flag-mx: Mexico :flag-mx:
+`EDDJ-MMUN | A340 | DLH 514/515
 
 Friday:
-:flag-us: FNF - Seattle :flag-us: 
-`KSEA-PANC | B737-800 | AS 108/109`
+*FNF - More details coming soon*
 
 Saturday:
-:flag-sg: Singapore :flag-sg:
-`EDDF-WSSS | A380 | DLH 778/779`
-`EDDM-WSSS | A340 | DLH 790/791`
+:alaska: Alaskan Codeshare :alaska:
+`KSEA-KAIH | B737-900 | AS 350/351`
 
 Sunday:
-:flag-hk: Hong Kong Cargo :flag-hk:
-`VOBL-VHHH | MD-11F | DLH 8678`
-`VOBL-UNNT | MD-11F | DLH 8455`
+:flag-tr: Turkey :flag-tr:
+`EDDF-LTBA | A320 | DLH 1304/1305`
