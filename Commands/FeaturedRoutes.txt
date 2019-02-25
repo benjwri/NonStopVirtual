@@ -1,37 +1,35 @@
-*NSVA Featured Routes from February 18, 2019 - February 24, 2019*
+*NSVA Featured Routes from February 24, 2019 - March 3, 2019*
 
 Welcome to our featured routes of the week, every week, we will be posting recommended routes to fly in out fleet all across the world. We choose the routes in conjunction with the IFATC schedule. If you still didn’t arrive at the required rank to fly these routes, don’t worry! You can fly 2 recommended routes regardless of your rank. Only routes which specifically state it have flight time multipliers.
 
 
 *Route of the Week*
 Fly at any time this week!
-:flag-us: Denver :flag-us:
-`EDDF-KDEN | B747-400 | DLH 446/447`
+:flag-au: Sydney :flag-au:
+NonStop Virtual do not have any flights to YSSY, so fly any Virgin Australia codeshare in or out of YSSY for *2x flight time*!
 
 Monday:
-:flag-ca: Canada :flag-ca:
-`EDDF-CYVE | A340 | DLH 492/493`
-`EDDM-CYVE | A340 | DLH 476/477`
+:flag-fj: Fiji -  :virgin: Virgin Australia Codeshare :virgin: :flag-fj:
+`YSSY-NFFN | B737-800 | VA 181/182`
 
 Tuesday:
-:flag-za: South Africa :flag-za:
-`EDDF-FOAR | B747-8 | DLH 572/573`
+:flag-gb: United Kingdom :flag-gb:
+Fly any of these routes for *1.5x flight time*!
+`EDDF-EGCC | A319 | DLH 940/941`
+`EDDM-EGBB | A320 | DLH 952/953`
 
 Wednesday:
-flag-es: Spain :flag-es:
-`EDDF-LEBL | A320 | DLH 1124/1125`
+:flag-kw: Kuwait :flag-kw:
+`EDDF-OKBK | A330 | DLH 624/625`
 
 Thursday:
-:flag-mx: Mexico :flag-mx:
-`EDDJ-MMUN | A340 | DLH 514/515
+:flag-sg: Singapore - :singapore_airlines: Singapore Airlines Codeshares :singapore_airlines: :flag-sg:
+`WSSS-WIII | B777-300ER | SQ 950/951`
+`WSSS-WADD | B787-10 | SQ 942/943`
 
 Friday:
 *FNF - More details coming soon*
 
-Saturday:
-:alaska: Alaskan Codeshare :alaska:
-`KSEA-KAIH | B737-900 | AS 350/351`
-
-Sunday:
-:flag-tr: Turkey :flag-tr:
-`EDDF-LTBA | A320 | DLH 1304/1305`
+Saturday and Sunday:
+:virgin: Virgin Australia Codeshare :virgin:
+Fly any Virgin Australia codeshare which starts *and* ends in Australia for *2x flight time*!
