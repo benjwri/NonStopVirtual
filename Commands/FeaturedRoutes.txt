@@ -5,31 +5,36 @@ Welcome to our featured routes of the week, every week, we will be posting recom
 
 *Route of the Week*
 Fly at any time this week!
-:flag-au: Sydney :flag-au:
-NonStop Virtual do not have any flights to YSSY, so fly any Virgin Australia codeshare in or out of YSSY for *2x flight time*!
+:flag-tr: Istanbul :flag-tr:
+Fly at any time this week for *2x flight time*!
+`EDDF-LTBA | A320 | DLH 1304/1305`
 
 Monday:
-:flag-fj: Fiji -  :virgin: Virgin Australia Codeshare :virgin: :flag-fj:
-`YSSY-NFFN | B737-800 | VA 181/182`
+:flag-ru: Russia :flag-ru:
+`EDDF-UKBB | A320 | DLH 1492/1493`
+`EDDF-UKBB | A319 | DLH 2544/2545`
 
 Tuesday:
-:flag-gb: United Kingdom :flag-gb:
+:flag-fr: France :flag-fr:
 Fly any of these routes for *1.5x flight time*!
-`EDDF-EGCC | A319 | DLH 940/941`
-`EDDM-EGBB | A320 | DLH 952/953`
+`EDDF-LFPG | A320 | DLH 1026/1027`
+`EDDM-LFLL | CRJ900 | DLH 2252/2253`
 
 Wednesday:
-:flag-kw: Kuwait :flag-kw:
-`EDDF-OKBK | A330 | DLH 624/625`
+:flag-ke: Kenya :flag-ke:
+`EDDF-HKJK | A340 | DLH 590/591`
 
 Thursday:
-:flag-sg: Singapore - :singapore_airlines: Singapore Airlines Codeshares :singapore_airlines: :flag-sg:
-`WSSS-WIII | B777-300ER | SQ 950/951`
-`WSSS-WADD | B787-10 | SQ 942/943`
+:swiss: Swiss Codeshare :swiss
+Fly any Swiss Codeshare out of or into `LSGG` for *1.5x flight time*!
 
 Friday:
 *FNF - More details coming soon*
 
-Saturday and Sunday:
-:virgin: Virgin Australia Codeshare :virgin:
-Fly any Virgin Australia codeshare which starts *and* ends in Australia for *2x flight time*!
+Saturday:
+:flag-tr: Turkey :flag-tr:
+`EDDM-LTBJ | A320 | DLH 1780/1781`
+
+Sunday:
+:flag-tr: Turkey (Again) :flag-tr:
+Fly *any* Lufthansa route in Europe for *1.5x flight time*!
