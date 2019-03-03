@@ -25,7 +25,7 @@ Wednesday:
 `EDDF-HKJK | A340 | DLH 590/591`
 
 Thursday:
-:swiss: Swiss Codeshare :swiss
+:swiss: Swiss Codeshare :swiss:
 Fly any Swiss Codeshare out of or into `LSGG` for *1.5x flight time*!
 
 Friday:
