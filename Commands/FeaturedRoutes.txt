@@ -1,40 +1,37 @@
 *NSVA Featured Routes from February 24, 2019 - March 3, 2019*
 
-Welcome to our featured routes of the week, every week, we will be posting recommended routes to fly in out fleet all across the world. We choose the routes in conjunction with the IFATC schedule. If you still didn’t arrive at the required rank to fly these routes, don’t worry! You can fly 2 recommended routes regardless of your rank. Only routes which specifically state it have flight time multipliers.
+Welcome to our featured routes of the week, every week, we will be posting recommended routes to fly in out fleet all across the world. We choose the routes in conjunction with the IFATC schedule. If you still didn’t arrive at the required rank to fly these routes, don’t worry!  Only routes which specifically state it have flight time multipliers.
 
 
 *Route of the Week*
 Fly at any time this week!
-:flag-tr: Istanbul :flag-tr:
-Fly at any time this week for *2x flight time*!
-`EDDF-LTBA | A320 | DLH 1304/1305`
+:flag-mx: Mexico City :flag-mx:
+`EDDF-MMMX | B747-400 | DLH 498/495`
 
 Monday:
-:flag-ru: Russia :flag-ru:
-`EDDF-UKBB | A320 | DLH 1492/1493`
-`EDDF-UKBB | A319 | DLH 2544/2545`
+:flag-co: Columbia :flag-co:
+`EDDF-SKBO | A340 | DLH 542/543`
 
 Tuesday:
-:flag-fr: France :flag-fr:
-Fly any of these routes for *1.5x flight time*!
-`EDDF-LFPG | A320 | DLH 1026/1027`
-`EDDM-LFLL | CRJ900 | DLH 2252/2253`
+*747 Day*
+Fly any route out of Frankfurt in the B747-8 for *2x flight time*!
 
 Wednesday:
-:flag-ke: Kenya :flag-ke:
-`EDDF-HKJK | A340 | DLH 590/591`
+:flag-us: United Codeshare :flag-us:
+This week we have decided to give you some teasers of our upcoming United Codeshares!
+`KORD-KMCO | B757 | UVA 811/754`
 
 Thursday:
-:swiss: Swiss Codeshare :swiss:
-Fly any Swiss Codeshare out of or into `LSGG` for *1.5x flight time*!
+:flag-cn: China :flag-cn:
+`UAAA-ZGGG | MD-11F | DLH 8414`
 
 Friday:
 *FNF - More details coming soon*
 
 Saturday:
-:flag-tr: Turkey :flag-tr:
-`EDDM-LTBJ | A320 | DLH 1780/1781`
+:flag-mx: Mexico :flag-mx:
+Fly the route of the week today for *2x flight time*!
 
 Sunday:
-:flag-tr: Turkey (Again) :flag-tr:
-Fly *any* Lufthansa route in Europe for *1.5x flight time*!
+:flag-us: Another United Codeshare! :flag-us:
+`KORD-KPHX | B739 | UVA 901/336
