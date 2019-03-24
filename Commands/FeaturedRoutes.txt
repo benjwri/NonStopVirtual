@@ -1,37 +1,36 @@
-*NSVA Featured Routes from February 24, 2019 - March 3, 2019*
+*NSVA Featured Routes from March 25, 2019 - March 31, 2019*
 
 Welcome to our featured routes of the week, every week, we will be posting recommended routes to fly in out fleet all across the world. We choose the routes in conjunction with the IFATC schedule. If you still didn’t arrive at the required rank to fly these routes, don’t worry!  Only routes which specifically state it have flight time multipliers.
 
 
 *Route of the Week*
 Fly at any time this week!
-:flag-mx: Mexico City :flag-mx:
-`EDDF-MMMX | B747-400 | DLH 498/495`
+:flag-us: New York :flag-us:
+`EDDF-KFJK | A380 | DLH 400/401`
 
 Monday:
-:flag-co: Columbia :flag-co:
-`EDDF-SKBO | A340 | DLH 542/543`
+:flag-us: Florida :flag-us:
+`EDDF-KTPA | A340 | DLH 482/483`
 
 Tuesday:
-*747 Day*
-Fly any route out of Frankfurt in the B747-8 for *2x flight time*!
+:flag-ie: Ireland :flag-ie:
+`EDDM-EIDW | A320 | DLH 2514/2515`
 
 Wednesday:
-:flag-us: United Codeshare :flag-us:
-This week we have decided to give you some teasers of our upcoming United Codeshares!
-`KORD-KMCO | B757 | UVA 811/754`
+:flag-us: United Codeshare - *2x Flight Time* :flag-us:
+`KORD-KHPN | CRJ2 | UVA 1346/1347`
 
 Thursday:
-:flag-cn: China :flag-cn:
-`UAAA-ZGGG | MD-11F | DLH 8414`
+:flag-sa: South Africa - Swiss Codeshare :swiss:
+`LSZH-FAOR | A340 | LX288/289`
 
 Friday:
 *FNF - More details coming soon*
 
 Saturday:
-:flag-mx: Mexico :flag-mx:
-Fly the route of the week today for *2x flight time*!
+:alaska: Alaska Airlines :alaska:
+Fly any Alaska Airlines route. If flown *within your rank* you will get *2x flight time*!
 
 Sunday:
-:flag-us: Another United Codeshare! :flag-us:
-`KORD-KPHX | B739 | UVA 901/336
+:flag-ca: Canada :flag-ca:
+`EDDM-CYUL | A330-300 | DLH 474/475`
