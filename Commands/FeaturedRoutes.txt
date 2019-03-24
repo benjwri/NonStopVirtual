@@ -21,7 +21,7 @@ Wednesday:
 `KORD-KHPN | CRJ2 | UVA 1346/1347`
 
 Thursday:
-:flag-sa: South Africa - Swiss Codeshare :swiss:
+:flag-za: South Africa - Swiss Codeshare :swiss:
 `LSZH-FAOR | A340 | LX288/289`
 
 Friday:
