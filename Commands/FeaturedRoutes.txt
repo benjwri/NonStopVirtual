@@ -5,32 +5,33 @@ Welcome to our featured routes of the week, every week, we will be posting recom
 
 *Route of the Week*
 Fly at any time this week!
-:flag-us: New York :flag-us:
-`EDDF-KFJK | A380 | DLH 400/401`
+:flag-us: Chicago :flag-us:
+Fly *any* 2 United Codeshares from or to KORD for *2x flight time*!
 
 Monday:
-:flag-us: Florida :flag-us:
-`EDDF-KTPA | A340 | DLH 482/483`
+:flag-hk: Hong Kong :flag-hk:
+`EDDF-VHHH | A340 | LH 796/797`
 
 Tuesday:
-:flag-ie: Ireland :flag-ie:
-`EDDM-EIDW | A320 | DLH 2514/2515`
+:flag-us: Buffalo :flag-us:
+`EDDM-EIDW | A320 | LH 2514/2515`
 
 Wednesday:
-:flag-us: United Codeshare - *2x Flight Time* :flag-us:
-`KORD-KHPN | CRJ2 | UVA 1346/1347`
+:virgin: Australia :virgin:
+Fly any *Virgin Australia* Codeshare for *1.5x flight time*!
 
 Thursday:
-:flag-za: South Africa - Swiss Codeshare :swiss:
-`LSZH-FAOR | A340 | LX288/289`
+:flag-lb: Beirut :flag-lb:
+`EDDF-OLBA | A320 | LH 1306/1307`
 
 Friday:
 *FNF - More details coming soon*
 
 Saturday:
-:alaska: Alaska Airlines :alaska:
-Fly any Alaska Airlines route. If flown *within your rank* you will get *2x flight time*!
+:flag-us: Denver :flag-us:
+`EDDF-KDEN | B747-400 | DLH 446/447`
+`EDDM-KDEN | A330 | DLH 480/481`
 
 Sunday:
-:flag-ca: Canada :flag-ca:
-`EDDM-CYUL | A330-300 | DLH 474/475`
+:flag-us: US Cargo :flag-us:
+`EDDF-KDFW | MD11F | DLH 8224/8227`
