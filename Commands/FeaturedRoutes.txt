@@ -1,37 +1,39 @@
-*NSVA Featured Routes from March 25, 2019 - March 31, 2019*
+*NSVA Featured Routes from April 15, 2019 - April 21, 2019*
 
 Welcome to our featured routes of the week, every week, we will be posting recommended routes to fly in out fleet all across the world. We choose the routes in conjunction with the IFATC schedule. If you still didn’t arrive at the required rank to fly these routes, don’t worry!  Only routes which specifically state it have flight time multipliers.
 
 
 *Route of the Week*
 Fly at any time this week!
-:flag-us: Chicago :flag-us:
-Fly *any* 2 United Codeshares from or to KORD for *2x flight time*!
+:flag-fr: Paris :flag-fr:
+Fly at any time this week for *2x flight time*!
+`EDDF-LFPG | A320 | LH 1026/1027`
+`EDDM-LFPG | A320 | LH 2236/2237`
 
 Monday:
-:flag-hk: Hong Kong :flag-hk:
-`EDDF-VHHH | A340 | LH 796/797`
+:flag-ru: Russia :flag-ru:
+`EDDF-ULLI | A320 | LH 1432/1433`
 
 Tuesday:
-:flag-us: Buffalo :flag-us:
-`EDDM-EIDW | A320 | LH 2514/2515`
+:flag-it: Italy and Greece :flag-gr:
+`EDDM-LICC | A320 | LH 1846/1847`
+`EDDM-LGKR | A320 | LH 1766/1767`
 
 Wednesday:
-:virgin: Australia :virgin:
-Fly any *Virgin Australia* Codeshare for *1.5x flight time*!
+We don't fly to any of the featured countries today, fly the route of the week for 2.5x flight time!
 
 Thursday:
-:flag-lb: Beirut :flag-lb:
-`EDDF-OLBA | A320 | LH 1306/1307`
+:flag-ca: Canada :flag-ca:
+`EDDF-CYYZ | B747-400 | LH 470/471`
 
 Friday:
 *FNF - More details coming soon*
 
 Saturday:
-:flag-us: Denver :flag-us:
-`EDDF-KDEN | B747-400 | DLH 446/447`
-`EDDM-KDEN | A330 | DLH 480/481`
+:flag-uk: United Kingdom :flag-uk:
+`EDDF-EGCC| A319 | LH 904/941`
+`EDDM-EGLL | A320 | LH 2470/2471`
 
 Sunday:
-:flag-us: US Cargo :flag-us:
-`EDDF-KDFW | MD11F | DLH 8224/8227`
+:flag-no: Norway :flag-no:
+`EDDF-ENGM | A320 | DLH 858/859`
