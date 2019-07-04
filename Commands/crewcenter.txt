@@ -1,1 +1,1 @@
-:nonstop: The crew center is currently unavailable, you can submit a pirep by using the command `/pirep`, and you can view your hours by using the command `/hours` :nonstop:
+:nonstop: Link to Crew Center: http://nonstopvirtual.site - your available hours can be seen there, or also by typing `/hours`. :nonstop:
